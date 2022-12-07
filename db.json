@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "Project 1",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "12000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 3331,
+      "services": [
+        {
+          "name": "UX Design",
+          "cost": "1000",
+          "description": "Contratar Designer",
+          "id": "5dc7ded9-b69b-41ff-b8c9-22604bee4a84"
+        },
+        {
+          "name": "Juliana Moreira",
+          "cost": "2331",
+          "description": "1111",
+          "id": "7c958595-e503-4440-b022-d0cdd2968ba9"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Projeto 3",
+      "budget": "1500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 356,
+      "services": [
+        {
+          "name": "Serviço1",
+          "cost": "222",
+          "description": "1111",
+          "id": "81c496f9-0334-4bcb-8941-fffa947763fb"
+        },
+        {
+          "name": "Serviço teste",
+          "cost": "134",
+          "description": "faz isso",
+          "id": "60f5fa99-4d5d-413f-b2fe-0215d316ee2a"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
